@@ -1,2 +1,6 @@
-# computer_vision_video_segmentation
-Work in Progress : App for Object detection in Traffic ( e.g : Pedestrian, Car, Bike)
+# App for Object detection in Traffic ( e.g : Pedestrian, Car, Bike)
+
+ - Built using the following Python Libraries:
+          - Pytorch - Deep Learning model
+          - OpenCV - Image Processing
+          - NumPY  - Math Operations
